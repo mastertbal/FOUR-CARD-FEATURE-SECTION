@@ -32,7 +32,7 @@ MOBILE
 
 ### Links
 
-- Solution URL: [GITHUB](https://github.com/mastertbal/FOUR-CARD-FEATURE-SECTION/edit/master/README.md)
+- Solution URL: [GITHUB](https://github.com/mastertbal/FOUR-CARD-FEATURE-SECTION)
 - Live Site URL: [LIVE LINK](https://mastertbal.github.io/FOUR-CARD-FEATURE-SECTION/index.html)
 
 ## My process
